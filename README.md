@@ -1,12 +1,7 @@
 # Proyecto Power BI
 
-Este proyecto contiene los documentos y archivos relacionados con el análisis de datos realizado en Power BI.
-
-## Diseño del Dashboard
-
-Aquí puedes ver el diseño y estructura del dashboard:
-
-![Captura del Dashboard](ruta/a/la/imagen.png)
+Aqui les dejo la documentacion de un pequeño proyecto en POWER BI de Analisis de Costo para RRHH.
+Un proyecto el cual me gusta mucho el diseño. 
 
 ## Archivos incluidos
 
@@ -20,4 +15,4 @@ Aquí puedes ver el diseño y estructura del dashboard:
 
 ## Autor
 
-305060751
+Rafael Marcial Mata Vargas 
